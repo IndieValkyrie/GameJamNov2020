@@ -1338,3 +1338,23 @@ Script Stack (0 frames):
 [2020.12.06-17.31.40:248][940]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/TopDownBP/Widgets/LevelEnd.LevelEnd
 [2020.12.06-17.33.30:680][412]BlueprintLog: New page: Compile HUD
 [2020.12.06-17.33.30:742][412]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2020.12.06-17.41.28:269][181]BlueprintLog: New page: Compile HUD
+[2020.12.06-17.41.28:317][181]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2020.12.06-17.41.58:831][708]BlueprintLog: New page: Compile HUD
+[2020.12.06-17.41.58:876][708]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2020.12.06-17.42.29:160][176]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.12.06-17.42.29:160][176]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-17.42.29:160][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.06-17.44.27:440][783]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2020.12.06-17.44.27:446][783]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/InGame' took 0.039
+[2020.12.06-17.44.27:447][783]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Engine/EditorMaterials/WidgetMaterial_Z] ([1] browsable assets)...
+[2020.12.06-17.44.27:497][783]OBJ SavePackage:     Rendered thumbnail for [Material /Engine/EditorMaterials/WidgetMaterial_Z.WidgetMaterial_Z]
+[2020.12.06-17.44.27:497][783]OBJ SavePackage: Finished generating thumbnails for package [/Engine/EditorMaterials/WidgetMaterial_Z]
+[2020.12.06-17.44.27:507][783]LogSavePackage: Moving '../../../../../../Laura/Game Projects/Solo/Jam/Lemmings/Saved/WidgetMaterial_Z_Auto133DBF2194AD9D3104B7C1D8734234A30.tmp' to '../../../../../../Laura/Game Projects/Solo/Jam/Lemmings/Saved/Autosaves/Engine/EditorMaterials/WidgetMaterial_Z_Auto1.uasset'
+[2020.12.06-17.44.27:511][783]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/Widgets/HUD] ([1] browsable assets)...
+[2020.12.06-17.44.27:512][783]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Widgets/HUD]
+[2020.12.06-17.44.27:539][783]LogSavePackage: Moving '../../../../../../Laura/Game Projects/Solo/Jam/Lemmings/Saved/HUD_Auto166ADECDB409DC69DCA65DEBCA178682B.tmp' to '../../../../../../Laura/Game Projects/Solo/Jam/Lemmings/Saved/Autosaves/Game/TopDownBP/Widgets/HUD_Auto1.uasset'
+[2020.12.06-17.44.27:543][783]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/Widgets/LevelEnd] ([1] browsable assets)...
+[2020.12.06-17.44.27:543][783]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Widgets/LevelEnd]
+[2020.12.06-17.44.27:556][783]LogSavePackage: Moving '../../../../../../Laura/Game Projects/Solo/Jam/Lemmings/Saved/LevelEnd_Auto12190802D4C997CFCE1D073B629DEBE38.tmp' to '../../../../../../Laura/Game Projects/Solo/Jam/Lemmings/Saved/Autosaves/Game/TopDownBP/Widgets/LevelEnd_Auto1.uasset'
+[2020.12.06-17.44.27:559][783]LogFileHelpers: Auto-saving content packages took 0.112
